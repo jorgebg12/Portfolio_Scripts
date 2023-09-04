@@ -1,5 +1,3 @@
-# Portfolio_Scripts
-Ejemplos de scripts realizados
 # Portfolio Scripts
 ##Que encontraras aqui
 
